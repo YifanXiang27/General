@@ -18,3 +18,5 @@
       The format is : 
       {Groupname}   {samplename1} {samplename2} {samplename3} {...} END
       with {} you need to change the name. You can find some example in the directory.
+      run.sh will read the total groupnumber in this file. So :
+#### ALWAYS RUN run.sh FIRST!!!!!
