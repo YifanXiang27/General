@@ -1,0 +1,152 @@
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoMu18");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoMu18",&RHLT_IsoMu18);
+        ifExistHLT_IsoMu18 = true;
+    }else{
+        ifExistHLT_IsoMu18 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoMu20");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoMu20",&RHLT_IsoMu20);
+        ifExistHLT_IsoMu20 = true;
+    }else{
+        ifExistHLT_IsoMu20 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoMu22");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoMu22",&RHLT_IsoMu22);
+        ifExistHLT_IsoMu22 = true;
+    }else{
+        ifExistHLT_IsoMu22 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoMu24");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoMu24",&RHLT_IsoMu24);
+        ifExistHLT_IsoMu24 = true;
+    }else{
+        ifExistHLT_IsoMu24 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoMu27");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoMu27",&RHLT_IsoMu27);
+        ifExistHLT_IsoMu27 = true;
+    }else{
+        ifExistHLT_IsoMu27 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoTkMu18");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoTkMu18",&RHLT_IsoTkMu18);
+        ifExistHLT_IsoTkMu18 = true;
+    }else{
+        ifExistHLT_IsoTkMu18 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoTkMu20");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoTkMu20",&RHLT_IsoTkMu20);
+        ifExistHLT_IsoTkMu20 = true;
+    }else{
+        ifExistHLT_IsoTkMu20 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoTkMu22");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoTkMu22",&RHLT_IsoTkMu22);
+        ifExistHLT_IsoTkMu22 = true;
+    }else{
+        ifExistHLT_IsoTkMu22 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoTkMu24");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoTkMu24",&RHLT_IsoTkMu24);
+        ifExistHLT_IsoTkMu24 = true;
+    }else{
+        ifExistHLT_IsoTkMu24 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_IsoTkMu27");
+    if(br){
+        fChain->SetBranchAddress("HLT_IsoTkMu27",&RHLT_IsoTkMu27);
+        ifExistHLT_IsoTkMu27 = true;
+    }else{
+        ifExistHLT_IsoTkMu27 = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele25_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele25_WPTight_Gsf",&RHLT_Ele25_WPTight_Gsf);
+        ifExistHLT_Ele25_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele25_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele25_eta2p1_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele25_eta2p1_WPTight_Gsf",&RHLT_Ele25_eta2p1_WPTight_Gsf);
+        ifExistHLT_Ele25_eta2p1_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele25_eta2p1_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele27_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele27_WPTight_Gsf",&RHLT_Ele27_WPTight_Gsf);
+        ifExistHLT_Ele27_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele27_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele27_eta2p1_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele27_eta2p1_WPTight_Gsf",&RHLT_Ele27_eta2p1_WPTight_Gsf);
+        ifExistHLT_Ele27_eta2p1_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele27_eta2p1_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele32_eta2p1_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele32_eta2p1_WPTight_Gsf",&RHLT_Ele32_eta2p1_WPTight_Gsf);
+        ifExistHLT_Ele32_eta2p1_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele32_eta2p1_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele32_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele32_WPTight_Gsf",&RHLT_Ele32_WPTight_Gsf);
+        ifExistHLT_Ele32_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele32_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele35_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele35_WPTight_Gsf",&RHLT_Ele35_WPTight_Gsf);
+        ifExistHLT_Ele35_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele35_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele38_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele38_WPTight_Gsf",&RHLT_Ele38_WPTight_Gsf);
+        ifExistHLT_Ele38_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele38_WPTight_Gsf = false;
+    }
+
+    br = fChain->GetListOfBranches()->FindObject("HLT_Ele40_WPTight_Gsf");
+    if(br){
+        fChain->SetBranchAddress("HLT_Ele40_WPTight_Gsf",&RHLT_Ele40_WPTight_Gsf);
+        ifExistHLT_Ele40_WPTight_Gsf = true;
+    }else{
+        ifExistHLT_Ele40_WPTight_Gsf = false;
+    }
+

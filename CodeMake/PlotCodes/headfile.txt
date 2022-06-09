@@ -1,0 +1,90 @@
+        TH1D *plot_all_trueW_fatjet_DT_W;
+        TH1D *plot_all_trueW_fatjet_DTMD_W;
+        TH1D *plot_all_trueW_fatjet_PN_W;
+        TH1D *plot_all_trueW_fatjet_PNMD_W;
+
+        TH1D *plot_all_fakeW_fatjet_DT_W;
+        TH1D *plot_all_fakeW_fatjet_DTMD_W;
+        TH1D *plot_all_fakeW_fatjet_PN_W;
+        TH1D *plot_all_fakeW_fatjet_PNMD_W;
+
+        TH1D *plot_highpt_trueW_fatjet_DT_W;
+        TH1D *plot_highpt_trueW_fatjet_DTMD_W;
+        TH1D *plot_highpt_trueW_fatjet_PN_W;
+        TH1D *plot_highpt_trueW_fatjet_PNMD_W;
+
+        TH1D *plot_highpt_fakeW_fatjet_DT_W;
+        TH1D *plot_highpt_fakeW_fatjet_DTMD_W;
+        TH1D *plot_highpt_fakeW_fatjet_PN_W;
+        TH1D *plot_highpt_fakeW_fatjet_PNMD_W;
+
+        TH1D *plot_lowpt_trueW_fatjet_DT_W;
+        TH1D *plot_lowpt_trueW_fatjet_DTMD_W;
+        TH1D *plot_lowpt_trueW_fatjet_PN_W;
+        TH1D *plot_lowpt_trueW_fatjet_PNMD_W;
+
+        TH1D *plot_lowpt_fakeW_fatjet_DT_W;
+        TH1D *plot_lowpt_fakeW_fatjet_DTMD_W;
+        TH1D *plot_lowpt_fakeW_fatjet_PN_W;
+        TH1D *plot_lowpt_fakeW_fatjet_PNMD_W;
+
+        TH1D *plot_all_trueW_fatjet_mass;
+        TH1D *plot_all_trueW_fatjet_msoftdrop;
+        TH1D *plot_all_trueW_fatjet_tau1;
+        TH1D *plot_all_trueW_fatjet_tau2;
+        TH1D *plot_all_trueW_fatjet_tau3;
+        TH1D *plot_all_trueW_fatjet_tau4;
+        TH1D *plot_all_trueW_fatjet_tau1_tau2;
+        TH1D *plot_all_trueW_fatjet_tau3_tau2;
+        TH1D *plot_all_trueW_fatjet_nConstituents;
+
+        TH1D *plot_highpt_trueW_fatjet_mass;
+        TH1D *plot_highpt_trueW_fatjet_msoftdrop;
+        TH1D *plot_highpt_trueW_fatjet_tau1;
+        TH1D *plot_highpt_trueW_fatjet_tau2;
+        TH1D *plot_highpt_trueW_fatjet_tau3;
+        TH1D *plot_highpt_trueW_fatjet_tau4;
+        TH1D *plot_highpt_trueW_fatjet_tau1_tau2;
+        TH1D *plot_highpt_trueW_fatjet_tau3_tau2;
+        TH1D *plot_highpt_trueW_fatjet_nConstituents;
+
+        TH1D *plot_lowpt_trueW_fatjet_mass;
+        TH1D *plot_lowpt_trueW_fatjet_msoftdrop;
+        TH1D *plot_lowpt_trueW_fatjet_tau1;
+        TH1D *plot_lowpt_trueW_fatjet_tau2;
+        TH1D *plot_lowpt_trueW_fatjet_tau3;
+        TH1D *plot_lowpt_trueW_fatjet_tau4;
+        TH1D *plot_lowpt_trueW_fatjet_tau1_tau2;
+        TH1D *plot_lowpt_trueW_fatjet_tau3_tau2;
+        TH1D *plot_lowpt_trueW_fatjet_nConstituents;
+
+        TH1D *plot_all_fakeW_fatjet_mass;
+        TH1D *plot_all_fakeW_fatjet_msoftdrop;
+        TH1D *plot_all_fakeW_fatjet_tau1;
+        TH1D *plot_all_fakeW_fatjet_tau2;
+        TH1D *plot_all_fakeW_fatjet_tau3;
+        TH1D *plot_all_fakeW_fatjet_tau4;
+        TH1D *plot_all_fakeW_fatjet_tau1_tau2;
+        TH1D *plot_all_fakeW_fatjet_tau3_tau2;
+        TH1D *plot_all_fakeW_fatjet_nConstituents;
+
+        TH1D *plot_highpt_fakeW_fatjet_mass;
+        TH1D *plot_highpt_fakeW_fatjet_msoftdrop;
+        TH1D *plot_highpt_fakeW_fatjet_tau1;
+        TH1D *plot_highpt_fakeW_fatjet_tau2;
+        TH1D *plot_highpt_fakeW_fatjet_tau3;
+        TH1D *plot_highpt_fakeW_fatjet_tau4;
+        TH1D *plot_highpt_fakeW_fatjet_tau1_tau2;
+        TH1D *plot_highpt_fakeW_fatjet_tau3_tau2;
+        TH1D *plot_highpt_fakeW_fatjet_nConstituents;
+
+        TH1D *plot_lowpt_fakeW_fatjet_mass;
+        TH1D *plot_lowpt_fakeW_fatjet_msoftdrop;
+        TH1D *plot_lowpt_fakeW_fatjet_tau1;
+        TH1D *plot_lowpt_fakeW_fatjet_tau2;
+        TH1D *plot_lowpt_fakeW_fatjet_tau3;
+        TH1D *plot_lowpt_fakeW_fatjet_tau4;
+        TH1D *plot_lowpt_fakeW_fatjet_tau1_tau2;
+        TH1D *plot_lowpt_fakeW_fatjet_tau3_tau2;
+        TH1D *plot_lowpt_fakeW_fatjet_nConstituents;
+

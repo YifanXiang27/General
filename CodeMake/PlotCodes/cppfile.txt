@@ -1,0 +1,12 @@
+    plot_all_trueH_fatjet_DDBVLV2 = new TH1D("plot_all_trueH_fatjet_DDBVLV2","plot_all_trueH_fatjet_DDBVLV2",1000,0,1);
+    plot_all_trueH_fatjet_btagHbb = new TH1D("plot_all_trueH_fatjet_btagHbb","plot_all_trueH_fatjet_btagHbb",1000,0,1);
+    plot_all_trueH_fatjet_DT_H = new TH1D("plot_all_trueH_fatjet_DT_H","plot_all_trueH_fatjet_DT_H",1000,0,1);
+    plot_all_trueH_fatjet_DTMD_H = new TH1D("plot_all_trueH_fatjet_DTMD_H","plot_all_trueH_fatjet_DTMD_H",1000,0,1);
+    plot_all_trueH_fatjet_PN_H = new TH1D("plot_all_trueH_fatjet_PN_H","plot_all_trueH_fatjet_PN_H",1000,0,1);
+    plot_all_trueH_fatjet_PNMD_H = new TH1D("plot_all_trueH_fatjet_PNMD_H","plot_all_trueH_fatjet_PNMD_H",1000,0,1);
+    plot_all_fakeH_fatjet_DDBVLV2 = new TH1D("plot_all_fakeH_fatjet_DDBVLV2","plot_all_fakeH_fatjet_DDBVLV2",1000,0,1);
+    plot_all_fakeH_fatjet_btagHbb = new TH1D("plot_all_fakeH_fatjet_btagHbb","plot_all_fakeH_fatjet_btagHbb",1000,0,1);
+    plot_all_fakeH_fatjet_DT_H = new TH1D("plot_all_fakeH_fatjet_DT_H","plot_all_fakeH_fatjet_DT_H",1000,0,1);
+    plot_all_fakeH_fatjet_DTMD_H = new TH1D("plot_all_fakeH_fatjet_DTMD_H","plot_all_fakeH_fatjet_DTMD_H",1000,0,1);
+    plot_all_fakeH_fatjet_PN_H = new TH1D("plot_all_fakeH_fatjet_PN_H","plot_all_fakeH_fatjet_PN_H",1000,0,1);
+    plot_all_fakeH_fatjet_PNMD_H = new TH1D("plot_all_fakeH_fatjet_PNMD_H","plot_all_fakeH_fatjet_PNMD_H",1000,0,1);

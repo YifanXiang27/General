@@ -1,0 +1,90 @@
+    plot_all_trueW_fatjet_DT_W = new TH1D("plot_all_trueW_fatjet_DT_W","plot_all_trueW_fatjet_DT_W",1000,0,1);
+    plot_all_trueW_fatjet_DTMD_W = new TH1D("plot_all_trueW_fatjet_DTMD_W","plot_all_trueW_fatjet_DTMD_W",1000,0,1);
+    plot_all_trueW_fatjet_PN_W = new TH1D("plot_all_trueW_fatjet_PN_W","plot_all_trueW_fatjet_PN_W",1000,0,1);
+    plot_all_trueW_fatjet_PNMD_W = new TH1D("plot_all_trueW_fatjet_PNMD_W","plot_all_trueW_fatjet_PNMD_W",1000,0,1);
+
+    plot_all_fakeW_fatjet_DT_W = new TH1D("plot_all_fakeW_fatjet_DT_W","plot_all_fakeW_fatjet_DT_W",1000,0,1);
+    plot_all_fakeW_fatjet_DTMD_W = new TH1D("plot_all_fakeW_fatjet_DTMD_W","plot_all_fakeW_fatjet_DTMD_W",1000,0,1);
+    plot_all_fakeW_fatjet_PN_W = new TH1D("plot_all_fakeW_fatjet_PN_W","plot_all_fakeW_fatjet_PN_W",1000,0,1);
+    plot_all_fakeW_fatjet_PNMD_W = new TH1D("plot_all_fakeW_fatjet_PNMD_W","plot_all_fakeW_fatjet_PNMD_W",1000,0,1);
+
+    plot_highpt_trueW_fatjet_DT_W = new TH1D("plot_highpt_trueW_fatjet_DT_W","plot_highpt_trueW_fatjet_DT_W",1000,0,1);
+    plot_highpt_trueW_fatjet_DTMD_W = new TH1D("plot_highpt_trueW_fatjet_DTMD_W","plot_highpt_trueW_fatjet_DTMD_W",1000,0,1);
+    plot_highpt_trueW_fatjet_PN_W = new TH1D("plot_highpt_trueW_fatjet_PN_W","plot_highpt_trueW_fatjet_PN_W",1000,0,1);
+    plot_highpt_trueW_fatjet_PNMD_W = new TH1D("plot_highpt_trueW_fatjet_PNMD_W","plot_highpt_trueW_fatjet_PNMD_W",1000,0,1);
+
+    plot_highpt_fakeW_fatjet_DT_W = new TH1D("plot_highpt_fakeW_fatjet_DT_W","plot_highpt_fakeW_fatjet_DT_W",1000,0,1);
+    plot_highpt_fakeW_fatjet_DTMD_W = new TH1D("plot_highpt_fakeW_fatjet_DTMD_W","plot_highpt_fakeW_fatjet_DTMD_W",1000,0,1);
+    plot_highpt_fakeW_fatjet_PN_W = new TH1D("plot_highpt_fakeW_fatjet_PN_W","plot_highpt_fakeW_fatjet_PN_W",1000,0,1);
+    plot_highpt_fakeW_fatjet_PNMD_W = new TH1D("plot_highpt_fakeW_fatjet_PNMD_W","plot_highpt_fakeW_fatjet_PNMD_W",1000,0,1);
+
+    plot_lowpt_trueW_fatjet_DT_W = new TH1D("plot_lowpt_trueW_fatjet_DT_W","plot_lowpt_trueW_fatjet_DT_W",1000,0,1);
+    plot_lowpt_trueW_fatjet_DTMD_W = new TH1D("plot_lowpt_trueW_fatjet_DTMD_W","plot_lowpt_trueW_fatjet_DTMD_W",1000,0,1);
+    plot_lowpt_trueW_fatjet_PN_W = new TH1D("plot_lowpt_trueW_fatjet_PN_W","plot_lowpt_trueW_fatjet_PN_W",1000,0,1);
+    plot_lowpt_trueW_fatjet_PNMD_W = new TH1D("plot_lowpt_trueW_fatjet_PNMD_W","plot_lowpt_trueW_fatjet_PNMD_W",1000,0,1);
+
+    plot_lowpt_fakeW_fatjet_DT_W = new TH1D("plot_lowpt_fakeW_fatjet_DT_W","plot_lowpt_fakeW_fatjet_DT_W",1000,0,1);
+    plot_lowpt_fakeW_fatjet_DTMD_W = new TH1D("plot_lowpt_fakeW_fatjet_DTMD_W","plot_lowpt_fakeW_fatjet_DTMD_W",1000,0,1);
+    plot_lowpt_fakeW_fatjet_PN_W = new TH1D("plot_lowpt_fakeW_fatjet_PN_W","plot_lowpt_fakeW_fatjet_PN_W",1000,0,1);
+    plot_lowpt_fakeW_fatjet_PNMD_W = new TH1D("plot_lowpt_fakeW_fatjet_PNMD_W","plot_lowpt_fakeW_fatjet_PNMD_W",1000,0,1);
+
+    plot_all_trueW_fatjet_mass = new TH1D("plot_all_trueW_fatjet_mass","plot_all_trueW_fatjet_mass",1000,0,500);
+    plot_all_trueW_fatjet_msoftdrop = new TH1D("plot_all_trueW_fatjet_msoftdrop","plot_all_trueW_fatjet_msoftdrop",1000,0,500);
+    plot_all_trueW_fatjet_tau1 = new TH1D("plot_all_trueW_fatjet_tau1","plot_all_trueW_fatjet_tau1",1000,0,1);
+    plot_all_trueW_fatjet_tau2 = new TH1D("plot_all_trueW_fatjet_tau2","plot_all_trueW_fatjet_tau2",1000,0,1);
+    plot_all_trueW_fatjet_tau3 = new TH1D("plot_all_trueW_fatjet_tau3","plot_all_trueW_fatjet_tau3",1000,0,1);
+    plot_all_trueW_fatjet_tau4 = new TH1D("plot_all_trueW_fatjet_tau4","plot_all_trueW_fatjet_tau4",1000,0,1);
+    plot_all_trueW_fatjet_tau1_tau2 = new TH1D("plot_all_trueW_fatjet_tau1_tau2","plot_all_trueW_fatjet_tau1_tau2",1000,0,10);
+    plot_all_trueW_fatjet_tau3_tau2 = new TH1D("plot_all_trueW_fatjet_tau3_tau2","plot_all_trueW_fatjet_tau3_tau2",1000,0,10);
+    plot_all_trueW_fatjet_nConstituents = new TH1D("plot_all_trueW_fatjet_nConstituents","plot_all_trueW_fatjet_nConstituents",10,-0.5,9.5);
+
+    plot_highpt_trueW_fatjet_mass = new TH1D("plot_highpt_trueW_fatjet_mass","plot_highpt_trueW_fatjet_mass",1000,0,500);
+    plot_highpt_trueW_fatjet_msoftdrop = new TH1D("plot_highpt_trueW_fatjet_msoftdrop","plot_highpt_trueW_fatjet_msoftdrop",1000,0,500);
+    plot_highpt_trueW_fatjet_tau1 = new TH1D("plot_highpt_trueW_fatjet_tau1","plot_highpt_trueW_fatjet_tau1",1000,0,1);
+    plot_highpt_trueW_fatjet_tau2 = new TH1D("plot_highpt_trueW_fatjet_tau2","plot_highpt_trueW_fatjet_tau2",1000,0,1);
+    plot_highpt_trueW_fatjet_tau3 = new TH1D("plot_highpt_trueW_fatjet_tau3","plot_highpt_trueW_fatjet_tau3",1000,0,1);
+    plot_highpt_trueW_fatjet_tau4 = new TH1D("plot_highpt_trueW_fatjet_tau4","plot_highpt_trueW_fatjet_tau4",1000,0,1);
+    plot_highpt_trueW_fatjet_tau1_tau2 = new TH1D("plot_highpt_trueW_fatjet_tau1_tau2","plot_highpt_trueW_fatjet_tau1_tau2",1000,0,10);
+    plot_highpt_trueW_fatjet_tau3_tau2 = new TH1D("plot_highpt_trueW_fatjet_tau3_tau2","plot_highpt_trueW_fatjet_tau3_tau2",1000,0,10);
+    plot_highpt_trueW_fatjet_nConstituents = new TH1D("plot_highpt_trueW_fatjet_nConstituents","plot_highpt_trueW_fatjet_nConstituents",10,-0.5,9.5);
+
+    plot_lowpt_trueW_fatjet_mass = new TH1D("plot_lowpt_trueW_fatjet_mass","plot_lowpt_trueW_fatjet_mass",1000,0,500);
+    plot_lowpt_trueW_fatjet_msoftdrop = new TH1D("plot_lowpt_trueW_fatjet_msoftdrop","plot_lowpt_trueW_fatjet_msoftdrop",1000,0,500);
+    plot_lowpt_trueW_fatjet_tau1 = new TH1D("plot_lowpt_trueW_fatjet_tau1","plot_lowpt_trueW_fatjet_tau1",1000,0,1);
+    plot_lowpt_trueW_fatjet_tau2 = new TH1D("plot_lowpt_trueW_fatjet_tau2","plot_lowpt_trueW_fatjet_tau2",1000,0,1);
+    plot_lowpt_trueW_fatjet_tau3 = new TH1D("plot_lowpt_trueW_fatjet_tau3","plot_lowpt_trueW_fatjet_tau3",1000,0,1);
+    plot_lowpt_trueW_fatjet_tau4 = new TH1D("plot_lowpt_trueW_fatjet_tau4","plot_lowpt_trueW_fatjet_tau4",1000,0,1);
+    plot_lowpt_trueW_fatjet_tau1_tau2 = new TH1D("plot_lowpt_trueW_fatjet_tau1_tau2","plot_lowpt_trueW_fatjet_tau1_tau2",1000,0,10);
+    plot_lowpt_trueW_fatjet_tau3_tau2 = new TH1D("plot_lowpt_trueW_fatjet_tau3_tau2","plot_lowpt_trueW_fatjet_tau3_tau2",1000,0,10);
+    plot_lowpt_trueW_fatjet_nConstituents = new TH1D("plot_lowpt_trueW_fatjet_nConstituents","plot_lowpt_trueW_fatjet_nConstituents",10,-0.5,9.5);
+
+    plot_all_fakeW_fatjet_mass = new TH1D("plot_all_fakeW_fatjet_mass","plot_all_fakeW_fatjet_mass",1000,0,500);
+    plot_all_fakeW_fatjet_msoftdrop = new TH1D("plot_all_fakeW_fatjet_msoftdrop","plot_all_fakeW_fatjet_msoftdrop",1000,0,500);
+    plot_all_fakeW_fatjet_tau1 = new TH1D("plot_all_fakeW_fatjet_tau1","plot_all_fakeW_fatjet_tau1",1000,0,1);
+    plot_all_fakeW_fatjet_tau2 = new TH1D("plot_all_fakeW_fatjet_tau2","plot_all_fakeW_fatjet_tau2",1000,0,1);
+    plot_all_fakeW_fatjet_tau3 = new TH1D("plot_all_fakeW_fatjet_tau3","plot_all_fakeW_fatjet_tau3",1000,0,1);
+    plot_all_fakeW_fatjet_tau4 = new TH1D("plot_all_fakeW_fatjet_tau4","plot_all_fakeW_fatjet_tau4",1000,0,1);
+    plot_all_fakeW_fatjet_tau1_tau2 = new TH1D("plot_all_fakeW_fatjet_tau1_tau2","plot_all_fakeW_fatjet_tau1_tau2",1000,0,10);
+    plot_all_fakeW_fatjet_tau3_tau2 = new TH1D("plot_all_fakeW_fatjet_tau3_tau2","plot_all_fakeW_fatjet_tau3_tau2",1000,0,10);
+    plot_all_fakeW_fatjet_nConstituents = new TH1D("plot_all_fakeW_fatjet_nConstituents","plot_all_fakeW_fatjet_nConstituents",10,-0.5,9.5);
+
+    plot_highpt_fakeW_fatjet_mass = new TH1D("plot_highpt_fakeW_fatjet_mass","plot_highpt_fakeW_fatjet_mass",1000,0,500);
+    plot_highpt_fakeW_fatjet_msoftdrop = new TH1D("plot_highpt_fakeW_fatjet_msoftdrop","plot_highpt_fakeW_fatjet_msoftdrop",1000,0,500);
+    plot_highpt_fakeW_fatjet_tau1 = new TH1D("plot_highpt_fakeW_fatjet_tau1","plot_highpt_fakeW_fatjet_tau1",1000,0,1);
+    plot_highpt_fakeW_fatjet_tau2 = new TH1D("plot_highpt_fakeW_fatjet_tau2","plot_highpt_fakeW_fatjet_tau2",1000,0,1);
+    plot_highpt_fakeW_fatjet_tau3 = new TH1D("plot_highpt_fakeW_fatjet_tau3","plot_highpt_fakeW_fatjet_tau3",1000,0,1);
+    plot_highpt_fakeW_fatjet_tau4 = new TH1D("plot_highpt_fakeW_fatjet_tau4","plot_highpt_fakeW_fatjet_tau4",1000,0,1);
+    plot_highpt_fakeW_fatjet_tau1_tau2 = new TH1D("plot_highpt_fakeW_fatjet_tau1_tau2","plot_highpt_fakeW_fatjet_tau1_tau2",1000,0,10);
+    plot_highpt_fakeW_fatjet_tau3_tau2 = new TH1D("plot_highpt_fakeW_fatjet_tau3_tau2","plot_highpt_fakeW_fatjet_tau3_tau2",1000,0,10);
+    plot_highpt_fakeW_fatjet_nConstituents = new TH1D("plot_highpt_fakeW_fatjet_nConstituents","plot_highpt_fakeW_fatjet_nConstituents",10,-0.5,9.5);
+
+    plot_lowpt_fakeW_fatjet_mass = new TH1D("plot_lowpt_fakeW_fatjet_mass","plot_lowpt_fakeW_fatjet_mass",1000,0,500);
+    plot_lowpt_fakeW_fatjet_msoftdrop = new TH1D("plot_lowpt_fakeW_fatjet_msoftdrop","plot_lowpt_fakeW_fatjet_msoftdrop",1000,0,500);
+    plot_lowpt_fakeW_fatjet_tau1 = new TH1D("plot_lowpt_fakeW_fatjet_tau1","plot_lowpt_fakeW_fatjet_tau1",1000,0,1);
+    plot_lowpt_fakeW_fatjet_tau2 = new TH1D("plot_lowpt_fakeW_fatjet_tau2","plot_lowpt_fakeW_fatjet_tau2",1000,0,1);
+    plot_lowpt_fakeW_fatjet_tau3 = new TH1D("plot_lowpt_fakeW_fatjet_tau3","plot_lowpt_fakeW_fatjet_tau3",1000,0,1);
+    plot_lowpt_fakeW_fatjet_tau4 = new TH1D("plot_lowpt_fakeW_fatjet_tau4","plot_lowpt_fakeW_fatjet_tau4",1000,0,1);
+    plot_lowpt_fakeW_fatjet_tau1_tau2 = new TH1D("plot_lowpt_fakeW_fatjet_tau1_tau2","plot_lowpt_fakeW_fatjet_tau1_tau2",1000,0,10);
+    plot_lowpt_fakeW_fatjet_tau3_tau2 = new TH1D("plot_lowpt_fakeW_fatjet_tau3_tau2","plot_lowpt_fakeW_fatjet_tau3_tau2",1000,0,10);
+    plot_lowpt_fakeW_fatjet_nConstituents = new TH1D("plot_lowpt_fakeW_fatjet_nConstituents","plot_lowpt_fakeW_fatjet_nConstituents",10,-0.5,9.5);
+

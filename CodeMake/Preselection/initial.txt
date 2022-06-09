@@ -1,0 +1,22 @@
+UInt_t          run
+UInt_t          luminosityBlock
+ULong64_t       event
+
+Float_t         Generator_weight
+
+Bool_t          Flag_goodVertices
+Bool_t          Flag_globalSuperTightHalo2016Filter
+Bool_t          Flag_HBHENoiseFilter
+Bool_t          Flag_HBHENoiseIsoFilter
+Bool_t          Flag_EcalDeadCellTriggerPrimitiveFilter
+Bool_t          Flag_BadPFMuonFilter
+Bool_t          Flag_ecalBadCalibFilter
+
+Float_t         MET_pt
+UInt_t          nGenPart
+UInt_t          nElectron
+UInt_t          nMuon
+UInt_t          nTau
+UInt_t          nJet
+UInt_t          nFatJet
+

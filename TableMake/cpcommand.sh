@@ -1,0 +1,1 @@
+scp uaf:/home/users/yxiang/Analysis_NewVersion/Analysis/Analysis_1lep2b3jet/Analysis_Nano_afterpre_2021_10_21/data.txt .

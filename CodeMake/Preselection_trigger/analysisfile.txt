@@ -1,0 +1,152 @@
+        if(ifExistHLT_IsoMu18){
+            myhists->HLT_IsoMu18 = RHLT_IsoMu18;
+            myhists->ifExistHLT_IsoMu18 = true;
+        }else{
+            myhists->HLT_IsoMu18 = false;
+            myhists->ifExistHLT_IsoMu18 = false;
+        }
+
+        if(ifExistHLT_IsoMu20){
+            myhists->HLT_IsoMu20 = RHLT_IsoMu20;
+            myhists->ifExistHLT_IsoMu20 = true;
+        }else{
+            myhists->HLT_IsoMu20 = false;
+            myhists->ifExistHLT_IsoMu20 = false;
+        }
+
+        if(ifExistHLT_IsoMu22){
+            myhists->HLT_IsoMu22 = RHLT_IsoMu22;
+            myhists->ifExistHLT_IsoMu22 = true;
+        }else{
+            myhists->HLT_IsoMu22 = false;
+            myhists->ifExistHLT_IsoMu22 = false;
+        }
+
+        if(ifExistHLT_IsoMu24){
+            myhists->HLT_IsoMu24 = RHLT_IsoMu24;
+            myhists->ifExistHLT_IsoMu24 = true;
+        }else{
+            myhists->HLT_IsoMu24 = false;
+            myhists->ifExistHLT_IsoMu24 = false;
+        }
+
+        if(ifExistHLT_IsoMu27){
+            myhists->HLT_IsoMu27 = RHLT_IsoMu27;
+            myhists->ifExistHLT_IsoMu27 = true;
+        }else{
+            myhists->HLT_IsoMu27 = false;
+            myhists->ifExistHLT_IsoMu27 = false;
+        }
+
+        if(ifExistHLT_IsoTkMu18){
+            myhists->HLT_IsoTkMu18 = RHLT_IsoTkMu18;
+            myhists->ifExistHLT_IsoTkMu18 = true;
+        }else{
+            myhists->HLT_IsoTkMu18 = false;
+            myhists->ifExistHLT_IsoTkMu18 = false;
+        }
+
+        if(ifExistHLT_IsoTkMu20){
+            myhists->HLT_IsoTkMu20 = RHLT_IsoTkMu20;
+            myhists->ifExistHLT_IsoTkMu20 = true;
+        }else{
+            myhists->HLT_IsoTkMu20 = false;
+            myhists->ifExistHLT_IsoTkMu20 = false;
+        }
+
+        if(ifExistHLT_IsoTkMu22){
+            myhists->HLT_IsoTkMu22 = RHLT_IsoTkMu22;
+            myhists->ifExistHLT_IsoTkMu22 = true;
+        }else{
+            myhists->HLT_IsoTkMu22 = false;
+            myhists->ifExistHLT_IsoTkMu22 = false;
+        }
+
+        if(ifExistHLT_IsoTkMu24){
+            myhists->HLT_IsoTkMu24 = RHLT_IsoTkMu24;
+            myhists->ifExistHLT_IsoTkMu24 = true;
+        }else{
+            myhists->HLT_IsoTkMu24 = false;
+            myhists->ifExistHLT_IsoTkMu24 = false;
+        }
+
+        if(ifExistHLT_IsoTkMu27){
+            myhists->HLT_IsoTkMu27 = RHLT_IsoTkMu27;
+            myhists->ifExistHLT_IsoTkMu27 = true;
+        }else{
+            myhists->HLT_IsoTkMu27 = false;
+            myhists->ifExistHLT_IsoTkMu27 = false;
+        }
+
+        if(ifExistHLT_Ele25_WPTight_Gsf){
+            myhists->HLT_Ele25_WPTight_Gsf = RHLT_Ele25_WPTight_Gsf;
+            myhists->ifExistHLT_Ele25_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele25_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele25_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele25_eta2p1_WPTight_Gsf){
+            myhists->HLT_Ele25_eta2p1_WPTight_Gsf = RHLT_Ele25_eta2p1_WPTight_Gsf;
+            myhists->ifExistHLT_Ele25_eta2p1_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele25_eta2p1_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele25_eta2p1_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele27_WPTight_Gsf){
+            myhists->HLT_Ele27_WPTight_Gsf = RHLT_Ele27_WPTight_Gsf;
+            myhists->ifExistHLT_Ele27_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele27_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele27_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele27_eta2p1_WPTight_Gsf){
+            myhists->HLT_Ele27_eta2p1_WPTight_Gsf = RHLT_Ele27_eta2p1_WPTight_Gsf;
+            myhists->ifExistHLT_Ele27_eta2p1_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele27_eta2p1_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele27_eta2p1_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele32_eta2p1_WPTight_Gsf){
+            myhists->HLT_Ele32_eta2p1_WPTight_Gsf = RHLT_Ele32_eta2p1_WPTight_Gsf;
+            myhists->ifExistHLT_Ele32_eta2p1_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele32_eta2p1_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele32_eta2p1_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele32_WPTight_Gsf){
+            myhists->HLT_Ele32_WPTight_Gsf = RHLT_Ele32_WPTight_Gsf;
+            myhists->ifExistHLT_Ele32_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele32_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele32_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele35_WPTight_Gsf){
+            myhists->HLT_Ele35_WPTight_Gsf = RHLT_Ele35_WPTight_Gsf;
+            myhists->ifExistHLT_Ele35_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele35_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele35_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele38_WPTight_Gsf){
+            myhists->HLT_Ele38_WPTight_Gsf = RHLT_Ele38_WPTight_Gsf;
+            myhists->ifExistHLT_Ele38_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele38_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele38_WPTight_Gsf = false;
+        }
+
+        if(ifExistHLT_Ele40_WPTight_Gsf){
+            myhists->HLT_Ele40_WPTight_Gsf = RHLT_Ele40_WPTight_Gsf;
+            myhists->ifExistHLT_Ele40_WPTight_Gsf = true;
+        }else{
+            myhists->HLT_Ele40_WPTight_Gsf = false;
+            myhists->ifExistHLT_Ele40_WPTight_Gsf = false;
+        }
+
